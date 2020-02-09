@@ -1,4 +1,4 @@
-package pierwsze;
+package tablice;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ printArray(tab);
 
     }
 
-    public static void printArray(int[] Array){
+    public static String printArray(int[] Array){
 
         Scanner scn = new Scanner(System.in);
         for(int i=0;i<Array.length;i++) {
@@ -20,11 +20,12 @@ printArray(tab);
 
         System.out.print("{ ");
         for(int i=0;i<Array.length;i++){
-            System.out.print(i);
+            System.out.print(Array[i]);
         if(i<Array.length-1)
             System.out.print(" ,");
         }
         System.out.print(" }");
+        return "";
     }
 
 }
