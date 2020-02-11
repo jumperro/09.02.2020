@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class dwa {
+public class second {
     public static void main(String[] args) {
         int[] tab = new int[6];
         System.out.println(printArray(tab));

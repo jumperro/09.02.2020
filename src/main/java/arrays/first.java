@@ -2,7 +2,7 @@ package tablice;
 
 import java.util.Scanner;
 
-public class pierwsze {
+public class first {
     public static void main(String[] args) {
         int[] tab = new int[6];
 printArray(tab);

@@ -2,7 +2,7 @@ package tablice;
 
 import java.lang.reflect.Array;
 
-public class trzy {
+public class third {
     public static void main(String[] args) {
         int array[]={13,22,45,54,68,31,47};
         System.out.println(contains(array,31));
