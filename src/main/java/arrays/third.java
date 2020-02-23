@@ -1,6 +1,4 @@
-package tablice;
-
-import java.lang.reflect.Array;
+package arrays;
 
 public class third {
     public static void main(String[] args) {

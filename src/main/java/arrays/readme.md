@@ -12,7 +12,7 @@ Zadanie 3. Napisz program, który sprawdza czy w danej tablicy “array” znajd
 liczba “key”. Sygnatura metody jest następująca:
 public boolean contains(int[] array, int key)
 
-Zadanie 4. Napisz program, który sprawdza czy podane 2 tablice są identyczne. Sygnatura
+Zadanie 4. Napisz program, który sprawdza czy podane 2 arrays są identyczne. Sygnatura
 metody sprawdzającej jest następująca
 public boolean equals(int[] array1, int[] array2)
 

@@ -1,4 +1,4 @@
-package tablice;
+package arrays;
 
 public class seventh {
     public static void main(String[] args) {

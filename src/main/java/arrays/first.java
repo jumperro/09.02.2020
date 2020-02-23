@@ -1,4 +1,4 @@
-package tablice;
+package arrays;
 
 import java.util.Scanner;
 
